@@ -1,0 +1,5 @@
+com\dreamhire\ideal_resumes\IdealResumesApplication.class
+com\dreamhire\ideal_resumes\model\IdealResume.class
+com\dreamhire\ideal_resumes\repository\IdealResumeRepository.class
+com\dreamhire\ideal_resumes\services\IdealResumeServices.class
+com\dreamhire\ideal_resumes\controller\Controller.class
